@@ -21,6 +21,7 @@
 - <b>Programming with run-time vs compile-time initalization in mind</b>
 - <b>The nuances of internal and external linkage - efficient insertion of namespaces, functions and global constant variables.</b>
 - <b>C++ Control Flow Statements</b>
+- <b>Function templates and overloading logic</b>
 
 <!--
  ```diff
