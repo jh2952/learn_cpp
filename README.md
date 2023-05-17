@@ -22,6 +22,7 @@
 - <b>The nuances of internal and external linkage - efficient insertion of namespaces, functions and global constant variables.</b>
 - <b>C++ Control Flow Statements</b>
 - <b>Function templates and overloading logic</b>
+- <b>Working with compound data types: Pointers, References, Enumerations and Structs</b>
 
 <!--
  ```diff
