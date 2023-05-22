@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-- This repository consists of answers to the summary sections of each chapter on the website [Learn C++](https://www.learncpp.com/)
+- This repository consists of answers to the quiz sections of each chapter on the website [Learn C++](https://www.learncpp.com/)
 
 <h2>Languages and Utilities Used</h2>
 
