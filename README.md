@@ -22,7 +22,9 @@
 - <b>The nuances of internal and external linkage - efficient insertion of namespaces, functions and global constant variables.</b>
 - <b>C++ Control Flow Statements</b>
 - <b>Function templates and overloading logic</b>
-- <b>Working with compound data types: Pointers, References, Enumerations and Structs. How to pass each into a function and return each from a function.</b>
+- <b>Working with compound data types: Pointers, References, Enumerations and Structs.</b>
+- <b>Passing and returning by value, reference and address.</b>
+- <b>Fixed and dynamic arrays n-dimensional arrays: C-style, std::array, std::vector.</b>
 
 <!--
  ```diff
