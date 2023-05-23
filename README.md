@@ -16,15 +16,13 @@
 <h2>Skills learned:</h2>
 
 - <b>Proficiency in C++ Basics</b> 
-- <b>Debugging methods</b>
+- <b>Experience using and (re)creating basic algorithms (e.g., selection sort, bubble sort, binary search, etc)</b>
+- <b>Familiarity with a variety of data structures (e.g., structs, classes, enums, stacks, etc)</b>
+- <b>Working with compound data types: Pointers, References, structs, etc.</b>
+- <b>Fixed and dynamic n-dimensional arrays: C-style, std::array, std::vector.</b>
 - <b>Memory management and bit manipulation</b>
-- <b>Programming with run-time vs compile-time initalization in mind</b>
 - <b>The nuances of internal and external linkage - efficient insertion of namespaces, functions and global constant variables.</b>
-- <b>C++ Control Flow Statements</b>
-- <b>Function templates and overloading logic</b>
-- <b>Working with compound data types: Pointers, References, Enumerations and Structs.</b>
 - <b>Passing and returning by value, reference and address.</b>
-- <b>Fixed and dynamic arrays n-dimensional arrays: C-style, std::array, std::vector.</b>
 
 <!--
  ```diff
