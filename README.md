@@ -17,7 +17,7 @@
 
 - <b>Proficiency in C++ Basics</b> 
 - <b>Experience using and (re)creating basic algorithms (e.g., selection sort, bubble sort, binary search, etc)</b>
-- <b>Familiarity with a variety of data structures (e.g., structs, classes, enums, stacks, etc)</b>
+- <b>Familiarity with a variety of data structures (e.g., structs, classes, stacks, maps etc)</b>
 - <b>Working with compound data types: Pointers, References, structs, etc.</b>
 - <b>Fixed and dynamic n-dimensional arrays: C-style, std::array, std::vector.</b>
 - <b>Memory management and bit manipulation</b>
