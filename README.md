@@ -15,7 +15,8 @@
 
 <h2>Skills learned:</h2>
 
-- <b>Proficiency in C++ Basics</b> 
+- <b>Proficiency in C++ Basics</b>
+- <b>Understanding & Experience implementing OOP principles (e.g., Encapsulation, Inheritance)</b>
 - <b>Experience using and (re)creating basic algorithms (e.g., selection sort, bubble sort, binary search, etc)</b>
 - <b>Familiarity with a variety of data structures (e.g., structs, classes, stacks, maps etc)</b>
 - <b>Working with compound data types: Pointers, References, structs, etc.</b>
