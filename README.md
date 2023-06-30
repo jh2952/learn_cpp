@@ -19,6 +19,7 @@
 - <b>Thorough Understanding and Implementation of Object Oriented Programming Principles [Inheritance, Encapsulation, Abstraction & Polymorphism]</b>
 - <b>Experience using and (re)creating basic algorithms (e.g., selection sort, bubble sort, binary search, etc)</b>
 - <b>Familiarity with a variety of data structures (e.g., structs, classes, stacks, maps etc)</b>
+- <b>Using virtual functions and template classes to elimante redundant code</b>
 - <b>Working with compound data types: Pointers, References, structs, etc.</b>
 - <b>Fixed and dynamic n-dimensional arrays: C-style, std::array, std::vector.</b>
 - <b>Memory management and bit manipulation</b>
